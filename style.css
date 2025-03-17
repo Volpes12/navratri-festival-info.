@@ -97,7 +97,7 @@ img{
 	bottom: 200px;
 	width: 100%;
 	max-width: 400px;
-	display: flex;
+	display: flex;            /* Created By VPSK */
 	align-items: center;
 	justify-content: center;
 	border-radius: 50%;
@@ -197,7 +197,7 @@ img{
 }
 
 
-.mataji .no1 h1{
+.mataji .no1 h1{                            /* Created By VPSK */
 	color: #000000;
 	font-size: 28px;
 	display: flex;
@@ -238,3 +238,4 @@ img{
 	margin-bottom: 50px;
 	color: white;
 }
+/* Created By VPSK */
